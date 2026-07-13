@@ -65,7 +65,3 @@ This project uses the **Binary Search** algorithm, which repeatedly halves the s
 * Allow custom number ranges.
 * Build a graphical interface using Tkinter or Streamlit.
 * Track the best score and number of attempts.
-
-## 📄 License
-
-This project is open source and available for learning and personal use.
