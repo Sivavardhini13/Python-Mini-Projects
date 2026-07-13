@@ -29,12 +29,7 @@ A simple Python mini project that recommends movies based on the user's current 
 
 1. Clone the repository.
 2. Navigate to the project folder.
-3. Run the program:
-
-```bash
-python app.py
-```
-
+3. Run the program.
 4. Enter your mood when prompted.
 5. The program will recommend a movie based on your input.
 
@@ -42,7 +37,7 @@ python app.py
 
 ```
 Mood-Movie-Recommender/
-├── app.py
+├── mov_rec_sys.py
 └── README.md
 ```
 
@@ -61,7 +56,3 @@ Based on your mood (happy), we recommend: Legally Blonde
 * Add movie genres and ratings.
 * Display movie posters using an API.
 * Build a Streamlit web application.
-
-## 📄 License
-
-This project is open source and available for learning and personal use.
